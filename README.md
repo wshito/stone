@@ -6,7 +6,7 @@
 ## 作業状況
 
 - [x] Chap 3
-    - stone/Lexer.java, chap3/LexerRunner.java
+    - [stone/Lexer.java](src/stone/Lexer.java), [chap3/LexerRunner.java](src/chap3/LexerRunner.java)
 - [ ] Chap 4
 - [ ] Chap 5
 - [ ] Chap 6
